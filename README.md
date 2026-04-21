@@ -22,7 +22,7 @@
   - Education Management Software
   - Biman Bangladesh Airlines Management System
   - Rajshahi University eResult Management System
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/julkarnain) | [Email](mailto:julkarnain@example.com)
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/julkarnain95) | [Email](mailto:julkar929@gmail.com)
 
 ---
 
